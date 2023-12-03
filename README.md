@@ -10,7 +10,7 @@
 ![3 Слияния веток в Git](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/72bba18d-8afd-44e5-8ec6-9c3924189aef)
 4: Введение в rebase
 ![4 Введение в rebase](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/f4612a38-9f54-42b4-a5be-2a1dc4815ae6)
-Едем дальше
+Едем дальше  
 1: Теряем голову, или detached HEAD
 ![1 Теряем голову, или detached HEAD](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/5276f8a5-3396-4b54-be67-ae26990db0a1)
 2: Относительные ссылки (^)

@@ -1,7 +1,6 @@
-302 3 ФИИТ  
 На данной ветке размещены результаты тренажера Learn Git Branch  
-Основы  
-Введение  
+##Основы  
+###Введение  
 1: Знакомство с Git Commit
 ![1 Знакомство с Git Commit](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/245c4d20-7eb1-442f-8f62-686d52d23371)
 2: Ветвление в Git
@@ -10,7 +9,7 @@
 ![3 Слияния веток в Git](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/72bba18d-8afd-44e5-8ec6-9c3924189aef)
 4: Введение в rebase
 ![4 Введение в rebase](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/f4612a38-9f54-42b4-a5be-2a1dc4815ae6)
-Едем дальше  
+###Едем дальше  
 1: Теряем голову, или detached HEAD
 ![1 Теряем голову, или detached HEAD](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/5276f8a5-3396-4b54-be67-ae26990db0a1)
 2: Относительные ссылки (^)
@@ -21,8 +20,8 @@
 ![4 Отмена изменений в Git](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/3c40ac99-a441-43d8-b290-bcd298c5f09b)
 Итоги по основам
 ![levels-1chp](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/18aa3b43-d42a-4686-9687-4046f1c96a23)
-Удаленные репозитории  
-Push & Pull - удалённые репозитории в Git!  
+##Удаленные репозитории  
+###Push & Pull - удалённые репозитории в Git!  
 1: Введение в клонирование
 ![1 Введение в клонирование](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/04a10c88-ac2a-49d8-aa77-9774ba81d0c2)
 2: Удалённые ветки
@@ -39,7 +38,7 @@ Push & Pull - удалённые репозитории в Git!
 ![7 Расхождение в истории](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/2f5fef83-e23f-404b-9835-e43fc246f5fc)
 8: Заблокированная ветвь main
 ![8 Заблокированная ветвь main](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/cec2e1dc-7b0c-49e7-9009-b26241a1d9e9)
-Через origin – к звёздам. Продвинутое использование Git Remotes  
+###Через origin – к звёздам. Продвинутое использование Git Remotes  
 1: Push Мастер!
 ![1 Push Мастер!](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/a7bfef8a-e56e-4e39-aa49-3e59fdfdda4e)
 2: Слияние с удалённым репозиторием

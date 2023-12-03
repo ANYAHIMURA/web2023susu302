@@ -18,7 +18,7 @@
 ![3 Относительные ссылки №2](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/58d04c16-f96c-491e-bb27-1ed251a0f8de)
 4: Отмена изменений в Git
 ![4 Отмена изменений в Git](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/3c40ac99-a441-43d8-b290-bcd298c5f09b)
-Итоги по основам
+###### Итоги по основам
 ![levels-1chp](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/18aa3b43-d42a-4686-9687-4046f1c96a23)
 ## Удаленные репозитории  
 ### Push & Pull - удалённые репозитории в Git!  
@@ -55,5 +55,5 @@
 ![7 Пустой источник](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/d546d525-0a74-4040-86f3-a9032e8a655e)
 8: Аргументы для pull
 ![8 Аргументы для pull](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/3ebbfd5d-27cd-45eb-972e-0c6343151c59)
-Итоги удаленные репозитории
+###### Итоги удаленные репозитории
 ![levels-2chp](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/6c65bc1c-ecf0-415f-92fd-ad396de1cc5e)

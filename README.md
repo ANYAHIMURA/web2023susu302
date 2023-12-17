@@ -57,3 +57,29 @@
 ![8 Аргументы для pull](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/3ebbfd5d-27cd-45eb-972e-0c6343151c59)
 ###### Итоги удаленные репозитории
 ![levels-2chp](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/6c65bc1c-ecf0-415f-92fd-ad396de1cc5e)
+## Задания на дополнительные баллы
+### Перемещаем труды туда-сюда
+1: Введение в Cherry-pick
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/418601c2-66c4-48e8-89ab-555a8329d10e)
+2: Введение в интерактивный Rebase
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/514b55b1-7ecc-445a-9cbb-bd23f1943c99)
+### Сборная солянка
+1: Выберем один коммит.
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/48c1d8fa-f613-4851-942c-ca2a6e017f73)
+2: Жонглируем коммитами
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/a5e46586-892d-4a8e-b677-c668fdc3b2c6)
+3: Жонглируем коммитами №2
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/118c34f7-3629-472b-aa6a-2b4370959524)
+4: git tag
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/7439ff43-f246-4543-8709-ffec9e740fb6)
+5: Git describe
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/8992931c-1c95-4e21-b8a5-e7049325f10e)
+### Продвинутый уровень
+1: Rebase over 9000 раз
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/c310b270-44b5-4b95-b2f6-cb1e4a28d188)
+2: Здоровая семья, или несколько родителей
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/fb8ba073-91be-405e-b85c-1ef6064625a7)
+3: Спутанные ветки
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/5d8b6436-0203-463a-aebb-88c6d77180e5)
+###### Итоги доп. баллы
+![image](https://github.com/ANYAHIMURA/web2023susu302/assets/150538771/4516ac8d-37b7-43a7-837c-bc6b82b548fa)
